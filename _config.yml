@@ -1,6 +1,6 @@
 name: You Are Loved
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.8554492467083037
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: engagement
     item: null
     url: null
+typography_spectrum: 0.3872765440028161
